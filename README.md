@@ -1,1 +1,2 @@
 # NoteR
+hi everyone!
